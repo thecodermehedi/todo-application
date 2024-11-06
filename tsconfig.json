@@ -13,30 +13,6 @@
   "paths": {
    "@/*": [
     "./src/*"
-   ],
-   "@pages/*": [
-    "./pages/*"
-   ],
-   "@components/*": [
-    "./components/*"
-   ],
-   "@assets/*": [
-    "./assets/*"
-   ],
-   "@styles/*": [
-    "./styles/*"
-   ],
-   "@utils/*": [
-    "./utils/*"
-   ],
-   "@services/*": [
-    "./services/*"
-   ],
-   "@hooks/*": [
-    "./hooks/*"
-   ],
-   "@types/*": [
-    "./types/*"
    ]
   }
  }
