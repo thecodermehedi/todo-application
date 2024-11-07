@@ -1,5 +1,5 @@
 
-import { AddTodo } from "./AddTodo";
+import AddTodo from "./AddTodo";
 import FilterTodo from "./FilterTodo";
 import TodoCard from "./TodoCard";
 
